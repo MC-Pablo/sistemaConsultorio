@@ -1,0 +1,119 @@
+[
+  {
+    "id": "bz01",
+    "nombre": "alprazolam",
+    "dosis": [
+      0.5,
+      1
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "bz02",
+    "nombre": "clonazepam",
+    "dosis": [
+      0.5,
+      1,
+      2
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "bz03",
+    "nombre": "lorazepam",
+    "dosis": [
+      1,
+      2,
+      5
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "bz04",
+    "nombre": "diazepam",
+    "dosis": [
+      5,
+      10
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ap01",
+    "nombre": "haloperidol",
+    "dosis": [
+      5,
+      10
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ap02",
+    "nombre": "risperidona",
+    "dosis": [
+      1,
+      2
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ap03",
+    "nombre": "olanzapina",
+    "dosis": [
+      5,
+      10
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ap04",
+    "nombre": "quetiapina",
+    "dosis": [
+      25,
+      100,
+      200
+    ],
+    "stock": "no"
+  },
+  {
+    "id": "ap05",
+    "nombre": "clozapina",
+    "dosis": [
+      25,
+      100
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ap06",
+    "nombre": "aripiprazol",
+    "dosis": 10,
+    "stock": "no"
+  },
+  {
+    "id": "ad01",
+    "nombre": "sertralina",
+    "dosis": [
+      50,
+      100
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ad02",
+    "nombre": "fluoxetina",
+    "dosis": [
+      50,
+      100
+    ],
+    "stock": "si"
+  },
+  {
+    "id": "ad03",
+    "nombre": "paroxetina",
+    "dosis": [
+      50,
+      100
+    ],
+    "stock": "si"
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+      "id": "ad01",
+      "nombre": "Sertralina",
+      "dosis": [50, 100],
+      "stock": "si"
+    },
+    {
+      "id": "ad02",
+      "nombre": "Fluoxetina",
+      "dosis": [50, 100],
+      "stock": "si"
+    },
+    {
+      "id": "ad03",
+      "nombre": "Paroxetina",
+      "dosis": [50, 100],
+      "stock": "si"
+    }
+  ]

@@ -1,0 +1,40 @@
+[
+    {
+      "id": "bz01",
+      "nombre": "Alprazolam",
+      "dosis": [
+        0.5,
+        1
+      ],
+      "stock": "si"
+    },
+    {
+      "id": "bz02",
+      "nombre": "Clonazepam",
+      "dosis": [
+        0.5,
+        1,
+        2
+      ],
+      "stock": "si"
+    },
+    {
+      "id": "bz03",
+      "nombre": "Lorazepam",
+      "dosis": [
+        1,
+        2,
+        5
+      ],
+      "stock": "si"
+    },
+    {
+      "id": "bz04",
+      "nombre": "Diazepam",
+      "dosis": [
+        5,
+        10
+      ],
+      "stock": "si"
+    }
+  ]

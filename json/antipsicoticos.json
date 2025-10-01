@@ -1,0 +1,38 @@
+[
+    {
+      "id": "ap01",
+      "nombre": "Haloperidol",
+      "dosis": [5, 10],
+      "stock": "si"
+    },
+    {
+      "id": "ap02",
+      "nombre": "Risperidona",
+      "dosis": [1, 2],
+      "stock": "si"
+    },
+    {
+      "id": "ap03",
+      "nombre": "Olanzapina",
+      "dosis": [5, 10],
+      "stock": "si"
+    },
+    {
+      "id": "ap04",
+      "nombre": "Quetiapina",
+      "dosis": [25, 100, 200],
+      "stock": "no"
+    },
+    {
+      "id": "ap05",
+      "nombre": "Clozapina",
+      "dosis": [25, 100],
+      "stock": "si"
+    },
+    {
+      "id": "ap06",
+      "nombre": "Aripiprazol",
+      "dosis": 10,
+      "stock": "no"
+    }
+  ]

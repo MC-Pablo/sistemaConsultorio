@@ -1,0 +1,85 @@
+body {
+    background-color: white;
+    background-image: url(../multimedia/imagenes/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: 'DM Sans', sans-serif;
+
+    .ingresoSistema {
+        align-items: center;
+
+    }
+
+    .img-index {
+        margin-top: 50px;
+        width: 300px;
+        height: 200px;
+        border-radius: 10%;
+        
+    }
+
+    .formularioIndex {
+        margin-top: 10px;
+        border-radius: 5px;
+        color: #dbddd9;
+        padding: 1.7rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    label {
+        display: flex;
+        font-weight:600;
+        margin-bottom: 5px;
+        color: #dbddd9;
+        font-weight: bold;
+        flex-direction: column;
+        text-align: center;
+        
+    }
+
+    input {
+     
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #339bb4;
+        border-radius: 5px;
+        font-size: 1rem;
+
+
+    }
+
+    .botones {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+    }
+
+    button {
+
+        padding: 10px 20px;
+        margin: 5px;
+        cursor: pointer;
+        background-color: #339bb4;
+        color: #2a231b;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        color: #2a231b;
+        font-weight: bolder;
+    }
+
+
+
+
+}
